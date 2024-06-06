@@ -10,7 +10,7 @@ public class Hierar3 extends Hierar1{
 		// TODO Auto-generated method stub
 		Hierar3 c=new Hierar3();
 		c.vehicles1();
-		c.vehicles3();
+		c.vehicles3(); 
 
 	}
 
