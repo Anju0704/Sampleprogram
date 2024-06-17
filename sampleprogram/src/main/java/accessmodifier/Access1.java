@@ -5,7 +5,7 @@ public class Access1 {
 	{
 		System.out.println("Public access specifier");
 	}
-	private void display2()
+	private void display2() 
 	{
 		System.out.println("Private access specifier");
 	}

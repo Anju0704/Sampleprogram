@@ -8,9 +8,9 @@ public class Modifier1 {
 		// TODO Auto-generated method stub
 		Access1 c=new Access1();
 		c.display1();
-		c.display3();
-		c.display4();
+		//c.display3();
+		//c.display4();
 
-	}
+	}  
 
 }
